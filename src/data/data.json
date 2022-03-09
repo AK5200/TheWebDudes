@@ -1,0 +1,48 @@
+{
+   "projects":[
+       {
+           "image":"https://cdn.pixabay.com/photo/2017/01/29/13/21/mobile-devices-2017980_960_720.png",
+           "text":"best app",
+           "url":"https://www.google.com"
+       },
+
+       {
+           "image":"https://cdn.pixabay.com/photo/2017/01/29/13/21/mobile-devices-2017980_960_720.png",
+           "text":"best app",
+           "url":"https://www.google.com"
+       },
+
+       {
+        "image":"https://cdn.pixabay.com/photo/2017/01/29/13/21/mobile-devices-2017980_960_720.png",
+        "text":"best app 2",
+        "url":"https://www.google.com"
+    },
+
+    {
+        "image":"https://cdn.pixabay.com/photo/2017/01/29/13/21/mobile-devices-2017980_960_720.png",
+        "text":"best app 3",
+        "url":"https://www.google.com"
+
+    },
+
+    {
+        "image":"https://cdn.pixabay.com/photo/2017/01/29/13/21/mobile-devices-2017980_960_720.png",
+        "text":"best app 4",
+        "url":"https://www.google.com"
+    },
+
+    {
+        "image":"https://cdn.pixabay.com/photo/2017/01/29/13/21/mobile-devices-2017980_960_720.png",
+        "text":"best app 5",
+        "url":"https://www.google.com"
+    }
+   ],
+
+   "services":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In volutpat bibendum sem, ut scelerisque magna finibus eget. In pulvinar placerat purus quis scelerisque. Vivamus et tincidunt velit, nec vehicula tellus. Morbi placerat, dolor id cursus sollicitudin, dui odio vulputate tellus, sit amet porta nunc enim sed magna. Duis accumsan arcu at nisl euismod volutpat.",
+   "project": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In volutpat bibendum sem, ut scelerisque magna finibus eget. In pulvinar placerat purus quis scelerisque. Vivamus et tincidunt velit, nec vehicula tellus. Morbi placerat, dolor id cursus sollicitudin, dui odio vulputate tellus, sit amet porta nunc enim sed magna. Duis accumsan arcu at nisl euismod volutpat.",
+   "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In volutpat bibendum sem, ut scelerisque magna finibus eget. In pulvinar placerat purus quis scelerisque. Vivamus et tincidunt velit, nec vehicula tellus. Morbi placerat, dolor id cursus sollicitudin, dui odio vulputate tellus, sit amet porta nunc enim sed magna. Duis accumsan arcu at nisl euismod volutpat.",
+   "goal":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In volutpat bibendum sem, ut scelerisque magna finibus eget. In pulvinar placerat purus quis scelerisque. Vivamus et tincidunt velit, nec vehicula tellus. Morbi placerat, dolor id cursus sollicitudin, dui odio vulputate tellus, sit amet porta nunc enim sed magna. Duis accumsan arcu at nisl euismod volutpat."
+
+
+
+}
