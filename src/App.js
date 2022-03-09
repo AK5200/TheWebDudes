@@ -22,16 +22,12 @@ const App = () => {
   <Heading props='Services' id='services' />
   <Content content={data.services} />
   <ServicesMenu />
-   <Routes>
+
+  <Routes> 
     <Route path='/design' element={<ServicesMenuItem  design />} />
-  </Routes>
-
-  <Routes>
     <Route path='/development' element={<ServicesMenuItem development />} />
-  </Routes>
-
-  <Routes>
     <Route path='/maintainance' element={<ServicesMenuItem  maintainance/>} />
+    <Route path='*' element={<ServicesMenuItem  design />} />
   </Routes> 
 
 
