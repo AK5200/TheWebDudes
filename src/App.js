@@ -11,7 +11,8 @@ import data from './data/data.json'
 import ScrollTop from './components/ScrollTop';
 import Border from './components/Border.js'
 import Content from './components/Content';
-
+import Hire from './components/Hire'
+import { BrowserRouter as Router , Routes , Route } from 'react-router-dom';
 
 
 const App = () => {
@@ -21,17 +22,17 @@ const App = () => {
   <Heading props='Services' id='services' />
   <Content content={data.services} />
   <ServicesMenu />
-  {/* <Routes>
-    <Route path='./design' element={<ServicesMenuItem  design={<p>best design</p>} />} />
+   <Routes>
+    <Route path='/design' element={<ServicesMenuItem  design />} />
   </Routes>
 
   <Routes>
-    <Route path='./development' element={<ServicesMenuItem development={<p>best development</p>} />} />
+    <Route path='/development' element={<ServicesMenuItem development />} />
   </Routes>
 
   <Routes>
-    <Route path='./maintainance' element={<ServicesMenuItem  maintainance={<p>best maintainance</p>}/>} />
-  </Routes> */}
+    <Route path='/maintainance' element={<ServicesMenuItem  maintainance/>} />
+  </Routes> 
 
 
   <Border />
