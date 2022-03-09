@@ -12,7 +12,7 @@ import ScrollTop from './components/ScrollTop';
 import Border from './components/Border.js'
 import Content from './components/Content';
 import Hire from './components/Hire'
-import { BrowserRouter as Router , Routes , Route } from 'react-router-dom';
+import {  Routes , Route } from 'react-router-dom';
 
 
 const App = () => {
